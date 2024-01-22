@@ -4,3 +4,4 @@ torchaudio
 keras
 matplotlib
 streamlit
+plotly
